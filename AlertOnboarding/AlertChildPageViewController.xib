@@ -60,7 +60,7 @@
                             <constraint firstItem="BOp-iF-ff6" firstAttribute="centerX" secondItem="idc-BF-yRA" secondAttribute="centerX" id="4uh-YD-I07"/>
                             <constraint firstItem="BOp-iF-ff6" firstAttribute="width" secondItem="idc-BF-yRA" secondAttribute="height" id="JQe-2J-Cdd"/>
                             <constraint firstItem="BOp-iF-ff6" firstAttribute="centerY" secondItem="idc-BF-yRA" secondAttribute="centerY" id="SfY-fI-spo"/>
-                            <constraint firstItem="BOp-iF-ff6" firstAttribute="height" secondItem="idc-BF-yRA" secondAttribute="height" multiplier="0.8" id="lpb-33-HGv"/>
+                            <constraint firstItem="BOp-iF-ff6" firstAttribute="height" secondItem="idc-BF-yRA" secondAttribute="height" id="lpb-33-HGv"/>
                         </constraints>
                     </view>
                 </subviews>
@@ -68,7 +68,7 @@
                     <constraint firstItem="idc-BF-yRA" firstAttribute="top" secondItem="xgP-oi-YXV" secondAttribute="top" id="3CI-1F-oAN"/>
                     <constraint firstAttribute="trailing" secondItem="idc-BF-yRA" secondAttribute="trailing" id="3uF-8A-9Ac"/>
                     <constraint firstItem="ozM-3f-JWg" firstAttribute="height" secondItem="xgP-oi-YXV" secondAttribute="height" multiplier="0.5" id="5NH-Qw-DpT"/>
-                    <constraint firstItem="idc-BF-yRA" firstAttribute="height" secondItem="xgP-oi-YXV" secondAttribute="height" multiplier="0.5" id="9EX-Px-g1g"/>
+                    <constraint firstItem="idc-BF-yRA" firstAttribute="height" secondItem="xgP-oi-YXV" secondAttribute="width" id="9EX-Px-g1g"/>
                     <constraint firstItem="idc-BF-yRA" firstAttribute="leading" secondItem="xgP-oi-YXV" secondAttribute="leading" id="CzF-fN-06z"/>
                     <constraint firstItem="ozM-3f-JWg" firstAttribute="leading" secondItem="xgP-oi-YXV" secondAttribute="leading" id="F8R-0U-EnC"/>
                     <constraint firstItem="ozM-3f-JWg" firstAttribute="width" secondItem="xgP-oi-YXV" secondAttribute="width" id="Spe-yv-F89"/>
@@ -76,7 +76,7 @@
                     <constraint firstItem="idc-BF-yRA" firstAttribute="width" secondItem="xgP-oi-YXV" secondAttribute="width" id="hNk-iV-LRj"/>
                     <constraint firstAttribute="trailing" secondItem="ozM-3f-JWg" secondAttribute="trailing" id="si1-fj-Vv3"/>
                     <constraint firstItem="Dut-fh-6Zk" firstAttribute="top" secondItem="ozM-3f-JWg" secondAttribute="bottom" id="vfs-pW-rmr"/>
-                    <constraint firstItem="idc-BF-yRA" firstAttribute="height" secondItem="xgP-oi-YXV" secondAttribute="height" multiplier="0.65" id="yP1-qO-zR9"/>
+                    <constraint firstItem="idc-BF-yRA" firstAttribute="height" secondItem="xgP-oi-YXV" secondAttribute="width" id="yP1-qO-zR9"/>
                 </constraints>
                 <variation key="default">
                     <mask key="constraints">
